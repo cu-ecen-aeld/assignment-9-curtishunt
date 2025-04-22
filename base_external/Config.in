@@ -1,0 +1,5 @@
+menu "aesd-assignment configurations"
+
+source "/home/chunt/assignment-4-curtishunt/base_external/package/aesd-assignments/Config.in"
+
+endmenu
