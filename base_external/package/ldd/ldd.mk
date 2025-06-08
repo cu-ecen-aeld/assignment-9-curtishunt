@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Assignment 7 git repo contents:
-LDD_VERSION = 5c3cae6ddc96b8645dfa6f6bc4ddbba08aae8789
+LDD_VERSION = 697b55232d2bc0aac650de5cea73f7d9232c97c0
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
